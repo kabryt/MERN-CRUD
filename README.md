@@ -1,4 +1,4 @@
-# MERN #CRUD #MongoDB #Express #JS  #React #Node #JS
+# MERN #CRUD #MongoDB #Express #JS  #React #Node
 MERN Stack Example (MongoDB, Express JS, React JS and Node JS)
 
 $npm install
